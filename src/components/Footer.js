@@ -4,7 +4,6 @@ import TwitterIcon from '@material-ui/icons/Twitter'
 import FacebookIcon from '@material-ui/icons/Facebook'
 import LInkedInIcon from '@material-ui/icons/LinkedIn'
 import '../styles/Footer.css'
-import Facebook from '@material-ui/icons/Facebook'
 
 function Footer() {
     return (
